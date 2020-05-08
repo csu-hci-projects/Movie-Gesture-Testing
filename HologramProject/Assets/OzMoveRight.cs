@@ -12,10 +12,10 @@ public class OzMoveRight : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.D))
         {
             Vector3 position = this.transform.position;
-            position.x += .03f;
+            position.x += .01f;
             this.transform.position = position;
         }
     }
