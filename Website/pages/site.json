@@ -1,0 +1,9 @@
+{
+  "name":"CS 001 Web Page Demonstration",
+  "department":"pages/department.json",
+  "pages": [
+    {"type":"page", "title":"Movie Gestures Project", "menu":"CS464 Final Project", "file":"pages/home.md"},
+    {"type":"text", "title":"site.json text contents", "menu":"Site", "file":"pages/site.json"},
+    {"type":"link", "title":"Computer Science", "menu":"CS", "url":"http://www.cs.colostate.edu/"}
+  ]
+}
