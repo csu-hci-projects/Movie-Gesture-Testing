@@ -1,5 +1,4 @@
 sceneSetups:
-- path: Assets/mainscene.unity
+- path: C:/Users/User/Documents/GitHub/Movie-Gesture-Testing/HologramProject/Assets/HerScene.unity
   isLoaded: 1
   isActive: 1
-  isSubScene: 0

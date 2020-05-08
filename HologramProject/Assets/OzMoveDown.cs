@@ -14,10 +14,10 @@ public class OzMoveDown : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.Q))
         {
             Vector3 position = this.transform.position;
-            position.y -= .03f;
+            position.y -= .01f;
             this.transform.position = position;
         }
     }
