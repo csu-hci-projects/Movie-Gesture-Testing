@@ -58,7 +58,6 @@ Average Errors/Gesture:  0.47
 Of the movies we tested, it was found that Iron Man and Prometheus' gestures are intuitive enough to warrant further study and potential future use within hologram technology with Prometheus being classified as the most intuitive.
 "Her" was found to not be intuitive with both error rate and time to complete being well above the threshhold of 15 seconds and 3 errors respectively and the users had a difficult time deciphering what gesture was used in the movie
 for that particular task. More participants would be warranted in future studies in order to further prove these results are accurate.
-# Video
-TODO
 # Links
-TODO
+Final Overview Video (short video): https://www.youtube.com/watch?v=SkCvwcb614U
+Final Presentation Video (long video): https://www.youtube.com/watch?v=6IeiWEz5A9w
