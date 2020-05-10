@@ -64,4 +64,3 @@ Final Overview Video (short video): https://www.youtube.com/watch?v=SkCvwcb614U
 Final Presentation Video (long video): https://www.youtube.com/watch?v=6IeiWEz5A9w  
 
 Github: https://github.com/csu-hci-projects/Movie-Gesture-Testing  
-
