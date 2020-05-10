@@ -60,5 +60,5 @@ Of the movies we tested, it was found that Iron Man and Prometheus' gestures are
 for that particular task. More participants would be warranted in future studies in order to further prove these results are accurate.
 # Links
 Final Overview Video (short video): https://www.youtube.com/watch?v=SkCvwcb614U
-Final Presentation Video (long video): https://www.youtube.com/watch?v=6IeiWEz5A9w
+Final Presentation Video (long video): https://www.youtube.com/watch?v=hBeLVEgY2a8
 Github: https://github.com/csu-hci-projects/Movie-Gesture-Testing
