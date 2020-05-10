@@ -10,7 +10,7 @@ such a technology. We went through the following movies to test their hologram g
 potential visual clutter that could cause the results to become skewed as a result of a flashier scene for a particular movie. Due to this we decided to boil our gestures down into the simplest possible Objects.
 For example our "Her" experiment (Pictured Below) involves only the user and 2 human models that we can use gestures with. This allows the user to immediately know what they are looking at and once told their objective they immediately
 know what object we are referring to.
-![Screenshot of 'Her' simulation](../images/image.png)
+![Screenshot of 'Her' simulation](./images/image.png)
 # Motivation
 Our motivation behind this stems from the fact that there are almost no academic studies that were made on hologram gesture viability, and we thought that it was necessary for us to figure this out now so we can build
 the technology around these gestures. We decided to pull our gestures from pop culture to see if those could be potentially viable, as that is how many people in our current world picture hologram interactions so there is some
@@ -21,7 +21,7 @@ form of background knowledge on how to interact with similar devices.
 The simulated environment that we created was through the use of Unity and an Oculus Rift headset. The Oculus rift is a full VR headset that allows us to create a very specific virtual world for the user to interact with.
 We leveraged the Wizard of Oz approach in order to give us more mobility with our objects being manipulated as an automated system would be less precise and potentially complete the gesture when the user did not mean to.  
 Image of the unity editor is pictured below
-![Screenshot of Unity](../images/image2.png)
+![Screenshot of Unity](./images/image2.png)
 The experiment involves the user being placed into the simulation and being told what their goal is, but not what the gesture is that they are meant to be doing to accomplish this. We then start a timer and keep track
 of each time they attempt to use a gesture that is not the similar to that of the movie we are testing. What this allows us to do is to see which of these movies have gestures that users can intuitively decipher themselves
 in a short period of time with a low error rate. If the movie ended up with a low error rate per gesture of under 3 and an average time per gesture of below 15 seconds, we classified it as intuitive and a potential candidate
@@ -59,6 +59,9 @@ Of the movies we tested, it was found that Iron Man and Prometheus' gestures are
 "Her" was found to not be intuitive with both error rate and time to complete being well above the threshhold of 15 seconds and 3 errors respectively and the users had a difficult time deciphering what gesture was used in the movie
 for that particular task. More participants would be warranted in future studies in order to further prove these results are accurate.
 # Links
-Final Overview Video (short video): https://www.youtube.com/watch?v=SkCvwcb614U
-Final Presentation Video (long video): https://www.youtube.com/watch?v=6IeiWEz5A9w
-Github: https://github.com/csu-hci-projects/Movie-Gesture-Testing
+Final Overview Video (short video): https://www.youtube.com/watch?v=SkCvwcb614U 
+ 
+Final Presentation Video (long video): https://www.youtube.com/watch?v=6IeiWEz5A9w  
+
+Github: https://github.com/csu-hci-projects/Movie-Gesture-Testing  
+
